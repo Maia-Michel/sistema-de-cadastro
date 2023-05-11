@@ -1,2 +1,5 @@
-# sistema-de-cadastro
-desenvolvido para teste alura
+# Sistema de cadastro
+
+Desenvolvido para teste alura
+
+> Status: Em desenvolvimento
